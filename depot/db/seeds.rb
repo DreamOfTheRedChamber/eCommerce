@@ -41,3 +41,7 @@ Product.create!(title: 'Rails Test Prescriptions',
       </p>},
                 image_url: 'rtp.jpg',
                 price: 34.95)
+
+User.create!(name: 'Shijie',
+             password_digest: BCrypt::Password.create("corinacorina"),
+             isAdmin: true)
