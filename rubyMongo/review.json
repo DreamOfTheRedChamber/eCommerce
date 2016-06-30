@@ -1,0 +1,14 @@
+{
+  "review_id": "",
+  "product_id": "",
+  "date": "",
+  "title": "",
+  "text": "",
+  "user_id": "",
+  "username": "",
+  "helpful_votes": 3,
+  "voter_ids": [
+    "",
+    ""
+  ]
+}

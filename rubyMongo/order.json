@@ -1,0 +1,26 @@
+{
+  "order_id": "",
+  "user_id": "",
+  "state": "cart",
+  "line_items": [
+    {
+      "product_id": "",
+      "name": "",
+      "quantity": 2,
+      "pricing": 28
+    },
+    {
+      "product_id": "",
+      "name": "",
+      "quantity": 1,
+      "pricing": 21
+    }
+  ],
+  "shipping_address": [
+    "street": "1600 E 3rd Avenue, Apt 2908",
+    "city": "San Mateo",
+    "state": "CA",
+    "zip": "94401"
+  ],
+  "sub_total": 6169
+}

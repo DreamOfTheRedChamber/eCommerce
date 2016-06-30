@@ -1,0 +1,22 @@
+{
+  "product_id": "",
+  "slug": "wheelbarrow-9092",
+  "name": "Extra large wheelbarrow",
+  "description": "Legend has it that Google deploys over a billion application containers a week. How is that possible? The company decided to share the process through an open source project called Kubernetes, which replicates many of the features found in its internal system. This practical book will prepare you to take advantage of everything the Kubernetes platform has to offer",
+  "pricing": [
+    {
+      "kindle" : 21.49
+
+    },
+    {
+      "paperback" : 33.99
+    }
+  ],
+  "total_reviews_num": 27,
+  "average_review": 4.5,
+  "category_ids": [
+    "books",
+    "Computer & Technology",
+    "Programming"
+  ]
+}

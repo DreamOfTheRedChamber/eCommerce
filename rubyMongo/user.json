@@ -1,0 +1,30 @@
+{
+  "user_id": "",
+  "user_name": "sjzhang1901",
+  "email": "sjzhang1901@gmail.com",
+  "first_name": "Shijie",
+  "last_name": "Zhang",
+  "hashed_password": "siodj111089u89",
+  "addresses": [
+    {
+        "name": "home",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": ""
+    },
+    {
+      "name": "work",
+      "street": "",
+      "city": "",
+      "state": "",
+      "zip": ""
+    }
+  ],
+  "payment_methods": [
+    {
+      "name": "VISA",
+      "payment_token": "0u0nklj023sx"
+    }
+  ]
+}
