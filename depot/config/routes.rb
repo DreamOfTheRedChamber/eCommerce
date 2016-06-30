@@ -1,7 +1,7 @@
 Rails.application.routes.draw do
   get 'admin' => 'admin#index'
   controller :sessions do
-    get 'login' => :new
+    get 'login' => :new, as: 'login'
     post 'login' => :create
     delete 'logout' => :destroy
   end
